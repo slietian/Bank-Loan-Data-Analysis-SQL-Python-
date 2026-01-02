@@ -41,13 +41,3 @@ Challenges Faced and Solutions:
 
 This project serves as a foundation for further analysis. Future work may include predictive modeling, additional feature engineering, and exploring external factors influencing loan approval.
 
-## Contact
-
-For any questions or collaboration opportunities, feel free to reach out:
-
-- Email: bhatvikas612@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/vikas-bhat-a89635116/
-
-Thank you for exploring the Bank Loan Data Analysis project!
-
-Vikas Bhat.
